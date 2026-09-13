@@ -1,0 +1,497 @@
+[
+  {
+    "id": "audio-engineering-music-production-hub-reddit-1",
+    "title": "r/edmproduction Electronic Producers",
+    "platform": "Reddit",
+    "category": "Music Production",
+    "memberCount": "390,000+ members",
+    "description": "Synthesis design, sidechain compression, EQ separation, sub-bass mixdown, and mastering plugins.",
+    "joinUrl": "https://www.reddit.com/r/edmproduction/",
+    "tags": [
+      "edm",
+      "synthesis",
+      "mixing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-2",
+    "title": "r/synthesizers Hardware & Modular",
+    "platform": "Reddit",
+    "category": "Synthesizers",
+    "memberCount": "280,000+ members",
+    "description": "Analog modular Eurorack gear, polyphonic synthesizers, patch routing, and sound design techniques.",
+    "joinUrl": "https://www.reddit.com/r/synthesizers/",
+    "tags": [
+      "synths",
+      "modular",
+      "analog",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-3",
+    "title": "r/WeAreTheMusicMakers Audio Hub",
+    "platform": "Reddit",
+    "category": "Music Creators",
+    "memberCount": "2,400,000+ members",
+    "description": "Home studio acoustics, recording chains, audio interface impedance, and creative songwriting.",
+    "joinUrl": "https://www.reddit.com/r/WeAreTheMusicMakers/",
+    "tags": [
+      "music",
+      "studio",
+      "recording",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-4",
+    "title": "r/audioengineering Studio Engineering",
+    "platform": "Reddit",
+    "category": "Audio Engineering",
+    "memberCount": "320,000+ members",
+    "description": "Acoustic treatment, reference monitors, gain staging, dynamic range, and analog console modeling.",
+    "joinUrl": "https://www.reddit.com/r/audioengineering/",
+    "tags": [
+      "audio",
+      "engineering",
+      "mastering",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-5",
+    "title": "r/ableton Live Workflows",
+    "platform": "Reddit",
+    "category": "Ableton Live",
+    "memberCount": "240,000+ members",
+    "description": "Ableton Live 12 racks, Max for Live devices, audio warping algorithms, and MIDI routing.",
+    "joinUrl": "https://www.reddit.com/r/ableton/",
+    "tags": [
+      "ableton",
+      "daw",
+      "midi",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-6",
+    "title": "r/FL_Studio Image-Line Guild",
+    "platform": "Reddit",
+    "category": "FL Studio",
+    "memberCount": "310,000+ members",
+    "description": "Fruity Loops piano roll automation, stock synth modulation (Sytrus/Harmor), and mixer routing.",
+    "joinUrl": "https://www.reddit.com/r/FL_Studio/",
+    "tags": [
+      "flstudio",
+      "daw",
+      "beats",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-7",
+    "title": "r/Logic_Studio Apple DAW Hub",
+    "platform": "Reddit",
+    "category": "Logic Pro",
+    "memberCount": "95,000+ members",
+    "description": "Logic Pro spatial audio mixing, Alchemy synthesizer soundscapes, and stock compressor models.",
+    "joinUrl": "https://www.reddit.com/r/Logic_Studio/",
+    "tags": [
+      "logic",
+      "apple",
+      "daw",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-8",
+    "title": "r/modular Eurorack Systems",
+    "platform": "Reddit",
+    "category": "Modular Synthesizers",
+    "memberCount": "85,000+ members",
+    "description": "Control voltage (CV) modulation, clock dividers, granulators, and custom Eurorack case design.",
+    "joinUrl": "https://www.reddit.com/r/modular/",
+    "tags": [
+      "modular",
+      "eurorack",
+      "cv",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-9",
+    "title": "r/makinghiphop Beat Production",
+    "platform": "Reddit",
+    "category": "Beatmaking & Sampling",
+    "memberCount": "190,000+ members",
+    "description": "Vinyl sample chopping, MPC swing grooves, 808 distortion, and drum pattern layering.",
+    "joinUrl": "https://www.reddit.com/r/makinghiphop/",
+    "tags": [
+      "hiphop",
+      "beats",
+      "sampling",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-10",
+    "title": "r/sounddesign Audio Synthesis",
+    "platform": "Reddit",
+    "category": "Sound Design",
+    "memberCount": "62,000+ members",
+    "description": "Foley recording, sci-fi synth impacts, cinematic risers, and frequency modulation techniques.",
+    "joinUrl": "https://www.reddit.com/r/sounddesign/",
+    "tags": [
+      "sound-design",
+      "foley",
+      "cinematic",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-11",
+    "title": "r/mixingmastering Mix Engineers",
+    "platform": "Reddit",
+    "category": "Mixing & Mastering",
+    "memberCount": "88,000+ members",
+    "description": "LUFS loudness standards, stereo width correlation, multiband saturation, and clipping algorithms.",
+    "joinUrl": "https://www.reddit.com/r/mixingmastering/",
+    "tags": [
+      "mixing",
+      "mastering",
+      "lufs",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-12",
+    "title": "r/trapproduction Modern Urban Production",
+    "platform": "Reddit",
+    "category": "Trap & Hip Hop",
+    "memberCount": "140,000+ members",
+    "description": "Glide 808s, hi-hat roll velocity randomization, melody loops, and sub-bass saturation.",
+    "joinUrl": "https://www.reddit.com/r/trapproduction/",
+    "tags": [
+      "trap",
+      "808",
+      "production",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-13",
+    "title": "r/Reaper Cockos DAW",
+    "platform": "Reddit",
+    "category": "Reaper DAW",
+    "memberCount": "82,000+ members",
+    "description": "Custom JSFX scripts, customized action hotkeys, lightweight performance, and routing flexibility.",
+    "joinUrl": "https://www.reddit.com/r/Reaper/",
+    "tags": [
+      "reaper",
+      "daw",
+      "scripts",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-14",
+    "title": "r/Bitwig Next-Gen DAW",
+    "platform": "Reddit",
+    "category": "Bitwig Studio",
+    "memberCount": "26,000+ members",
+    "description": "Bitwig The Grid modular synthesis, polyphonic expression (MPE), and unified modulation.",
+    "joinUrl": "https://www.reddit.com/r/Bitwig/",
+    "tags": [
+      "bitwig",
+      "mpe",
+      "daw",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-reddit-15",
+    "title": "r/audiophile High-Fidelity Audio",
+    "platform": "Reddit",
+    "category": "High-Fidelity Audio",
+    "memberCount": "1,100,000+ members",
+    "description": "DAC convertors, planar magnetic headphones, room acoustic treatment, and transparent amplification.",
+    "joinUrl": "https://www.reddit.com/r/audiophile/",
+    "tags": [
+      "audiophile",
+      "hifi",
+      "headphones",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-discord-16",
+    "title": "Music Production Global Discord",
+    "platform": "Discord",
+    "category": "Audio Production",
+    "memberCount": "72,000+ members",
+    "description": "Active Discord for producers sharing feedback, sample libraries, and plugin recommendations.",
+    "joinUrl": "https://discord.gg/musicproduction",
+    "tags": [
+      "music",
+      "production",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-discord-17",
+    "title": "Ableton Producers Guild Discord",
+    "platform": "Discord",
+    "category": "Ableton Live",
+    "memberCount": "58,000+ members",
+    "description": "Live production streams, project file exchanges, and Max for Live troubleshooting.",
+    "joinUrl": "https://discord.gg/ableton",
+    "tags": [
+      "ableton",
+      "daw",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-discord-18",
+    "title": "FL Studio Official Discord",
+    "platform": "Discord",
+    "category": "FL Studio",
+    "memberCount": "65,000+ members",
+    "description": "Beat battles, vocal mixing channels, stock plugin challenges, and pattern automation tutorials.",
+    "joinUrl": "https://discord.gg/flstudio",
+    "tags": [
+      "flstudio",
+      "beats",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-discord-19",
+    "title": "Modular Synth Enthusiasts Discord",
+    "platform": "Discord",
+    "category": "Hardware & Eurorack",
+    "memberCount": "32,000+ members",
+    "description": "Patch notes, DIY module soldering, oscillator comparisons, and generative ambient streams.",
+    "joinUrl": "https://discord.gg/modular",
+    "tags": [
+      "modular",
+      "synths",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-discord-20",
+    "title": "Audio Engineering Collective Discord",
+    "platform": "Discord",
+    "category": "Mix & Master",
+    "memberCount": "44,000+ members",
+    "description": "Mix critique channels, reference track comparisons, and monitoring acoustic discussions.",
+    "joinUrl": "https://discord.gg/audioengineering",
+    "tags": [
+      "audio",
+      "mastering",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-discord-21",
+    "title": "EDM Producers Hub Discord",
+    "platform": "Discord",
+    "category": "Electronic Dance Music",
+    "memberCount": "51,000+ members",
+    "description": "Genre-specific channels for house, techno, bass music, synthwave, and trance production.",
+    "joinUrl": "https://discord.gg/edmproduction",
+    "tags": [
+      "edm",
+      "electronic",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-discord-22",
+    "title": "Beatmakers Lounge Discord",
+    "platform": "Discord",
+    "category": "Hip Hop & Beats",
+    "memberCount": "38,000+ members",
+    "description": "Producer cookups, vinyl digging discussions, loop sharing, and vocal engineering tips.",
+    "joinUrl": "https://discord.gg/makinghiphop",
+    "tags": [
+      "hiphop",
+      "beats",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-telegram-23",
+    "title": "Music Producers Daily Telegram",
+    "platform": "Telegram",
+    "category": "Producer News",
+    "memberCount": "48,000+ members",
+    "description": "Free plugin alerts, VST discount announcements, and high-quality sound pack drops.",
+    "joinUrl": "https://t.me/musicproduction",
+    "tags": [
+      "music",
+      "vst",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-telegram-24",
+    "title": "Sound Design Masters Telegram",
+    "platform": "Telegram",
+    "category": "Synthesis News",
+    "memberCount": "35,000+ members",
+    "description": "Serum and Vital presets, wavetable distributions, and cinematic foley sample links.",
+    "joinUrl": "https://t.me/sounddesign",
+    "tags": [
+      "sound-design",
+      "presets",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-telegram-25",
+    "title": "Ableton Workflow Telegram",
+    "platform": "Telegram",
+    "category": "DAW Tips",
+    "memberCount": "28,000+ members",
+    "description": "Quick keyboard shortcut tips, audio rack downloads, and mixing chain walkthroughs.",
+    "joinUrl": "https://t.me/ableton",
+    "tags": [
+      "ableton",
+      "tips",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-telegram-26",
+    "title": "FL Studio Power Users Telegram",
+    "platform": "Telegram",
+    "category": "Beatmaking Tips",
+    "memberCount": "31,000+ members",
+    "description": "MIDI chord progression packs, mixer routing presets, and beat production walkthroughs.",
+    "joinUrl": "https://t.me/flstudio",
+    "tags": [
+      "flstudio",
+      "tips",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-forum-27",
+    "title": "Gearspace Pro Audio Forum",
+    "platform": "Forum",
+    "category": "High-End Audio",
+    "memberCount": "420,000+ members",
+    "description": "The authoritative industry forum for microphone shootouts, outboard gear reviews, and mixing debates.",
+    "joinUrl": "https://gearspace.com/board/",
+    "tags": [
+      "gearspace",
+      "hardware",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-forum-28",
+    "title": "KVR Audio VST Forum",
+    "platform": "Forum",
+    "category": "Virtual Instruments",
+    "memberCount": "310,000+ members",
+    "description": "The largest database and discussion forum for software synthesizers, audio effects, and DSP plugins.",
+    "joinUrl": "https://www.kvraudio.com/forum/",
+    "tags": [
+      "kvr",
+      "vst",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-forum-29",
+    "title": "Mod Wiggler Modular Forum",
+    "platform": "Forum",
+    "category": "Modular Synthesizers",
+    "memberCount": "180,000+ members",
+    "description": "The definitive global community for Eurorack modular synthesizers, patch sharing, and DIY circuits.",
+    "joinUrl": "https://www.modwiggler.com/forum/",
+    "tags": [
+      "modular",
+      "eurorack",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "audio-engineering-music-production-hub-forum-30",
+    "title": "Sound On Sound Official Forum",
+    "platform": "Forum",
+    "category": "Music Tech & Recording",
+    "memberCount": "260,000+ members",
+    "description": "Veteran audio engineers discussing acoustic treatment, microphone techniques, and monitoring fidelity.",
+    "joinUrl": "https://www.soundonsound.com/forum",
+    "tags": [
+      "sos",
+      "recording",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
