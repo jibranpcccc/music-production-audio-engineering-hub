@@ -1,17 +1,17 @@
 [
   {
-    "id": "music-production-audio-engineering-hub-telegram-20260915-1",
-    "title": "TechCrunch Official Channel",
-    "platform": "Telegram",
-    "category": "Tech News",
-    "memberCount": "110,000+ members",
-    "description": "Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.",
-    "joinUrl": "https://t.me/techcrunch",
+    "id": "music-production-audio-engineering-hub-reddit-20260915-1",
+    "title": "r/edmproduction Electronic Music Producers",
+    "platform": "Reddit",
+    "category": "Audio Engineering",
+    "memberCount": "490,000+ members",
+    "description": "Mixing, mastering, sidechain compression, OTT presets, VST plugins, analog synth sound design, and DAW workflows.",
+    "joinUrl": "https://www.reddit.com/r/edmproduction/",
     "tags": [
-      "techcrunch",
-      "telegram",
-      "news",
-      "startups"
+      "music-production",
+      "audio",
+      "ableton",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
@@ -93,24 +93,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "audio-engineering-music-production-hub-reddit-1",
-    "title": "r/edmproduction Electronic Producers",
-    "platform": "Reddit",
-    "category": "Music Production",
-    "memberCount": "390,000+ members",
-    "description": "Synthesis design, sidechain compression, EQ separation, sub-bass mixdown, and mastering plugins.",
-    "joinUrl": "https://www.reddit.com/r/edmproduction/",
-    "tags": [
-      "edm",
-      "synthesis",
-      "mixing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "audio-engineering-music-production-hub-reddit-2",
