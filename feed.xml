@@ -4,10 +4,17 @@
     <title>Audio Engineering &amp; Music Production Hub</title>
     <link>https://music-production-audio-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:05:05 GMT</lastBuildDate>
     <atom:link href="https://music-production-audio-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
+      <link>https://users.rust-lang.org</link>
+      <guid isPermaLink="false">https://music-production-audio-engineering-hub.netlify.app/#music-production-audio-engineering-hub-github-20261017-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:05:05 GMT</pubDate>
+      <description>Newly verified community added to Audio Engineering &amp; Music Production Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
       <link>https://discord.gg/tailwind</link>
       <guid isPermaLink="false">https://music-production-audio-engineering-hub.netlify.app/#music-production-audio-engineering-hub-discord-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/music-production-audio-engineering-hub/#music-production-audio-engineering-hub-reddit-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
       <description>Newly verified community added to Music Production Audio Engineering Hub: Mixing, mastering, sidechain compression, OTT presets, VST plugins, analog synth sound design, and DAW workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
-      <link>https://t.me/techcrunch</link>
-      <guid isPermaLink="false">https://music-production-audio-engineering-hub.netlify.app/#music-production-audio-engineering-hub-telegram-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:04:34 GMT</pubDate>
-      <description>Newly verified community added to Audio Engineering &amp; Music Production Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
     </item>
   </channel>
 </rss>
