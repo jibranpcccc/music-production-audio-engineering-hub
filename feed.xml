@@ -4,10 +4,17 @@
     <title>Audio Engineering &amp; Music Production Hub</title>
     <link>https://music-production-audio-engineering-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 07:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:36:16 GMT</lastBuildDate>
     <atom:link href="https://music-production-audio-engineering-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/modular Eurorack Systems (Reddit)</title>
+      <link>https://www.reddit.com/r/modular/</link>
+      <guid isPermaLink="false">https://music-production-audio-engineering-hub.netlify.app/#audio-engineering-music-production-hub-reddit-8-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:36:16 GMT</pubDate>
+      <description>Newly verified community added to Audio Engineering &amp; Music Production Hub: Control voltage (CV) modulation, clock dividers, granulators, and custom Eurorack case design.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Logic_Studio Apple DAW Hub (Reddit)</title>
       <link>https://www.reddit.com/r/Logic_Studio/</link>
       <guid isPermaLink="false">https://music-production-audio-engineering-hub.netlify.app/#audio-engineering-music-production-hub-reddit-7-2026-11-23</guid>
@@ -173,13 +180,6 @@
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://music-production-audio-engineering-hub.netlify.app/#music-production-audio-engineering-hub-forum-20261020-1-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 06:05:15 GMT</pubDate>
-      <description>Newly verified community added to Audio Engineering &amp; Music Production Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
-      <link>https://dev.to/t/webdev</link>
-      <guid isPermaLink="false">https://music-production-audio-engineering-hub.netlify.app/#music-production-audio-engineering-hub-forum-20261020-1-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 06:05:12 GMT</pubDate>
       <description>Newly verified community added to Audio Engineering &amp; Music Production Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
     </item>
   </channel>
